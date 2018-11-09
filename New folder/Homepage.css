@@ -1,0 +1,13 @@
+header{
+    position: fixed;
+    height: 100px;
+    weight: 100%;
+    background-color: #dae3f2;
+    margin: 0 auto;
+}
+header.header_left{
+    position: left;
+}
+header.header_right{
+    position: right;
+}
